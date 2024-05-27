@@ -1,0 +1,10 @@
+tailwind
+1.config
+    extend: 
+      colors: 
+        black: 
+          DEFAULT: "#000",
+          100: "#000319",
+
+    in page tsx
+    className="relative bg-black-100
